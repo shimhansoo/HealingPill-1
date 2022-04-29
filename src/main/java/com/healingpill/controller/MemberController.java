@@ -1,3 +1,4 @@
+/*
 package com.healingpill.controller;
 
 import com.sun.org.slf4j.internal.Logger;
@@ -24,3 +25,4 @@ public class MemberController {
         logger.debug("로그인 페이지 이동");
     }
 }
+*/
