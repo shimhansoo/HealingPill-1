@@ -1,4 +1,3 @@
-
 package com.healingpill.controller;
 
 import com.sun.org.slf4j.internal.Logger;
@@ -18,7 +17,7 @@ public class MemberController {
     public void memberJoinGET() {
         logger.debug("회원가입 페이지 이동");
     }
-    
+
     // 로그인 페이지 이동
     @RequestMapping(value = "memberLogin", method = RequestMethod.GET)
     public void memberLoginGET() {
